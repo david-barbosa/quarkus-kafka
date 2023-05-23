@@ -1,0 +1,16 @@
+org/br/mineradora/dto/ProposalDTO$ProposalDTOBuilder.class
+org/br/mineradora/service/OpportunityServiceImpl.class
+org/br/mineradora/service/OpportunityService.class
+org/br/mineradora/dto/ProposalDTO.class
+org/br/mineradora/entity/QuotationEntity.class
+org/br/mineradora/dto/OpportunityDTO.class
+org/br/mineradora/dto/QuotationDTO.class
+org/br/mineradora/dto/OpportunityDTO$OpportunityDTOBuilder.class
+org/br/mineradora/GreetingResource.class
+org/br/mineradora/repository/OpportunityRepository.class
+META-INF/panache-archive.marker
+org/br/mineradora/controller/OpportunityController.class
+org/br/mineradora/entity/OpportunityEntity.class
+org/br/mineradora/dto/QuotationDTO$QuotationDTOBuilder.class
+org/br/mineradora/repository/QuotationRepository.class
+org/br/mineradora/message/KafkaEvent.class

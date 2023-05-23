@@ -1,0 +1,12 @@
+/home/davidb/Documentos/David/Formação java/quarkus/report/src/main/java/org/br/mineradora/message/KafkaEvent.java
+/home/davidb/Documentos/David/Formação java/quarkus/report/src/main/java/org/br/mineradora/repository/QuotationRepository.java
+/home/davidb/Documentos/David/Formação java/quarkus/report/src/main/java/org/br/mineradora/dto/ProposalDTO.java
+/home/davidb/Documentos/David/Formação java/quarkus/report/src/main/java/org/br/mineradora/GreetingResource.java
+/home/davidb/Documentos/David/Formação java/quarkus/report/src/main/java/org/br/mineradora/entity/QuotationEntity.java
+/home/davidb/Documentos/David/Formação java/quarkus/report/src/main/java/org/br/mineradora/dto/OpportunityDTO.java
+/home/davidb/Documentos/David/Formação java/quarkus/report/src/main/java/org/br/mineradora/service/OpportunityService.java
+/home/davidb/Documentos/David/Formação java/quarkus/report/src/main/java/org/br/mineradora/dto/QuotationDTO.java
+/home/davidb/Documentos/David/Formação java/quarkus/report/src/main/java/org/br/mineradora/controller/OpportunityController.java
+/home/davidb/Documentos/David/Formação java/quarkus/report/src/main/java/org/br/mineradora/service/OpportunityServiceImpl.java
+/home/davidb/Documentos/David/Formação java/quarkus/report/src/main/java/org/br/mineradora/entity/OpportunityEntity.java
+/home/davidb/Documentos/David/Formação java/quarkus/report/src/main/java/org/br/mineradora/repository/OpportunityRepository.java
