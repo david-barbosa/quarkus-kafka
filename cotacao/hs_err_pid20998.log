@@ -1,0 +1,21 @@
+#
+# A fatal error has been detected by the Java Runtime Environment:
+#
+#  SIGSEGV (0xb) at pc=0x00007efe158040d1, pid=20998, tid=34455
+#
+# JRE version: Java(TM) SE Runtime Environment 18.9 (11.0.15+8) (build 11.0.15+8-LTS-149)
+# Java VM: Java HotSpot(TM) 64-Bit Server VM 18.9 (11.0.15+8-LTS-149, mixed mode, tiered, compressed oops, g1 gc, linux-amd64)
+# Problematic frame:
+# C  [libjimage.so+0x40d1]  ImageStrings::find(Endian*, char const*, int*, unsigned int)+0x71
+#
+# Core dump will be written. Default location: Core dumps may be processed with "/usr/share/apport/apport -p%p -s%s -c%c -d%d -P%P -u%u -g%g -- %E" (or dumping to /home/davidb/Documentos/David/Formação java/quarkus/cotacao/core.20998)
+#
+# If you would like to submit a bug report, please visit:
+#   https://bugreport.java.com/bugreport/crash.jsp
+#
+
+---------------  S U M M A R Y ------------
+
+Command Line: -Xverify:none -Dquarkus-internal.serialized-app-model.path=/home/davidb/Documentos/David/Formação java/quarkus/cotacao/target/quarkus/bootstrap/dev-app-model.dat -javaagent:/home/davidb/.m2/repository/io/quarkus/quarkus-class-change-agent/2.13.7.Final/quarkus-class-change-agent-2.13.7.Final.jar -XX:TieredStopAtLevel=1 -agentlib:jdwp=transport=dt_socket,address=localhost:34059,server=y,suspend=n -Djava.util.logging.manager=org.jboss.logmanager.LogManager /home/davidb/Documentos/David/Formação java/quarkus/cotacao/target/cotacao-dev.jar
+
+Host: 

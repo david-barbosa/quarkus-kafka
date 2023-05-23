@@ -1,0 +1,9 @@
+/home/davidb/Documentos/David/Formação java/quarkus/proposta/src/main/java/org/br/mineradora/dto/ProposalDetailsDTO.java
+/home/davidb/Documentos/David/Formação java/quarkus/proposta/src/main/java/org/br/mineradora/service/ProposalServiceImpl.java
+/home/davidb/Documentos/David/Formação java/quarkus/proposta/src/main/java/org/br/mineradora/message/KafkaEvent.java
+/home/davidb/Documentos/David/Formação java/quarkus/proposta/src/main/java/org/br/mineradora/service/ProposalService.java
+/home/davidb/Documentos/David/Formação java/quarkus/proposta/src/main/java/org/br/mineradora/repository/ProposalRepository.java
+/home/davidb/Documentos/David/Formação java/quarkus/proposta/src/main/java/org/br/mineradora/GreetingResource.java
+/home/davidb/Documentos/David/Formação java/quarkus/proposta/src/main/java/org/br/mineradora/controller/ProposalController.java
+/home/davidb/Documentos/David/Formação java/quarkus/proposta/src/main/java/org/br/mineradora/entity/ProposalEntity.java
+/home/davidb/Documentos/David/Formação java/quarkus/proposta/src/main/java/org/br/mineradora/dto/ProposalDTO.java

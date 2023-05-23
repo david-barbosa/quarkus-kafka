@@ -1,0 +1,9 @@
+/home/davidb/Documentos/David/Formação java/quarkus/cotacao/src/main/java/org/br/mineradora/service/QuotationService.java
+/home/davidb/Documentos/David/Formação java/quarkus/cotacao/src/main/java/org/br/mineradora/message/KafkaEvents.java
+/home/davidb/Documentos/David/Formação java/quarkus/cotacao/src/main/java/org/br/mineradora/client/CurrencyPriceClient.java
+/home/davidb/Documentos/David/Formação java/quarkus/cotacao/src/main/java/org/br/mineradora/scheduler/QuotationScheduler.java
+/home/davidb/Documentos/David/Formação java/quarkus/cotacao/src/main/java/org/br/mineradora/entity/QuotationEntity.java
+/home/davidb/Documentos/David/Formação java/quarkus/cotacao/src/main/java/org/br/mineradora/dto/QuotationDTO.java
+/home/davidb/Documentos/David/Formação java/quarkus/cotacao/src/main/java/org/br/mineradora/repository/QuotationRepository.java
+/home/davidb/Documentos/David/Formação java/quarkus/cotacao/src/main/java/org/br/mineradora/dto/CurrencyPriceDTO.java
+/home/davidb/Documentos/David/Formação java/quarkus/cotacao/src/main/java/org/br/mineradora/dto/USDBRL.java
